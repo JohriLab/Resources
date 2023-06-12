@@ -23,6 +23,7 @@ declare -i startID=0
 declare -i repID=${startID}+$SLURM_ARRAY_TASK_ID
 
 module load slim //load any modules required
+module load python/3.9.6 //if you want to use pylibseq 0.2.3
 
 cd /home/username/
 
