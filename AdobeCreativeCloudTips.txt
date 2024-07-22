@@ -1,0 +1,7 @@
+Students get creative cloud for free, instructional staff (including postdocs in most cases) also get creative cloud for free. Non-instructional staff can get a departmental license for $20/year, though Parul has to order it for you. Discuss with Parul whether you would be eligible for the free option, and what to put for your reason, as that's preferable. Below is details for how to proceed from there.
+
+Follow this link and follow instructions to request access to Creative Cloud: https://uncch.service-now.com/now/nav/ui/classic/params/target/kb_view.do%3Fsysparm_article%3DKB0010649
+N.B. Biology IT Support does not assign licenses or distribute software (Software Acquisitions does), but they can assist if there are any issues during the setup process.
+
+After you request it and are granted access, the Adobe Cloud Installer has to be downloaded from adobe.com. The username has to match the user’s default UNC email address (e.g. Jacob.Marsh@unc.edu). When the options come up, you have to select Company or School Account, which will take the user to the UNC single sign on page for onyen authentication. This is the same login method to be used with the installed Adobe Cloud app after installation.
+Happy Adobe-ing! 
